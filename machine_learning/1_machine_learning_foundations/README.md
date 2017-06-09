@@ -16,13 +16,13 @@ Machine Learning Foundations
 
 **- Lecture**
 
-- [Lecture 1](https://github.com/tuanavu/coursera-university-of-washington/tree/master/machine_learning/1_machine_learning_foundations/lecture/week1)
+- [Lecture 1](./lecture/week1)
 
 **- Assignment**
 
-- [Assignment 1](https://github.com/tuanavu/coursera-university-of-washington/tree/master/machine_learning/1_machine_learning_foundations/assignment/week1)
-- [Getting started with Python.ipynb](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/1_machine_learning_foundations/assignment/week1/Getting%20started%20with%20iPython%20Notebook.ipynb)
-- [Getting Started with SFrames.ipynb](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/1_machine_learning_foundations/assignment/week1/Getting%20Started%20with%20SFrames.ipynb)
+- [Assignment 1](./assignment/week1)
+- [Getting started with Python.ipynb](./assignment/week1/Getting%20started%20with%20iPython%20Notebook.ipynb)
+- [Getting Started with SFrames.ipynb](./assignment/week1/Getting%20Started%20with%20SFrames.ipynb)
 
 
 ## Week 2: Regression: Predicting House Prices
