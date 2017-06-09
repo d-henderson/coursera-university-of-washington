@@ -12,7 +12,7 @@ This repo contains lectures and assignments of [University of Washington - Cours
 
 | Course | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Machine Learning](https://github.com/tuanavu/coursera-university-of-washington/tree/master/machine_learning) | Machine Learning |
+| [Machine Learning](./machine_learning) | Machine Learning |
 
 ## License
 
