@@ -68,7 +68,7 @@ Aside: The python notation x.xxe+yy means x.xx * 10^(yy). e.g 100 = 10^2 = 1*10^
 
 **- Assignment**
 
-- [Assignment 3]./assignment/week3)
+- [Assignment 3](./assignment/week3)
 - [week-3-polynomial-regression-assignment-exercise.ipynb](./assignment/week3/week-3-polynomial-regression-assignment-exercise.ipynb)
 - [quiz - week3-assignment.ipynb](./assignment/week3/quiz%20-%20week3-assignment.ipynb)
 
@@ -87,7 +87,7 @@ Aside: The python notation x.xxe+yy means x.xx * 10^(yy). e.g 100 = 10^2 = 1*10^
 - [week-4-ridge-regression-assignment-1-exercise.ipynb](./assignment/week4/week-4-ridge-regression-assignment-1-exercise.ipynb)
 - [quiz - week4-assignment1.ipynb](./assignment/week4/quiz%20-%20week4-assignment1.ipynb)
 - [week-4-ridge-regression-assignment-2-exercise.ipynb](./assignment/week4/week-4-ridge-regression-assignment-2-exercise.ipynb)
-- [quiz - week4-assignment2.ipynb]./assignment/week4/quiz%20-%20week4-assignment2.ipynb)
+- [quiz - week4-assignment2.ipynb](./assignment/week4/quiz%20-%20week4-assignment2.ipynb)
 
 
 ## Week 5: Feature Selection & Lasso
