@@ -29,68 +29,68 @@ Machine Learning Foundations
 
 **- Lecture**
 
-- [Lecture 2](https://github.com/tuanavu/coursera-university-of-washington/tree/master/machine_learning/1_machine_learning_foundations/lecture/week2)
-- [quiz - Regression.ipynb](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/1_machine_learning_foundations/lecture/week2/quiz%20-%20Regression.ipynb)
+- [Lecture 2](./lecture/week2)
+- [quiz - Regression.ipynb](./lecture/week2/quiz%20-%20Regression.ipynb)
 
 **- Assignment**
 
-- [Assignment 2](https://github.com/tuanavu/coursera-university-of-washington/tree/master/machine_learning/1_machine_learning_foundations/assignment/week2)
-- [Predicting house prices-Exercise.ipynb](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/1_machine_learning_foundations/assignment/week2/Predicting%20house%20prices-Exercise.ipynb)
-- [quiz-week2-assignment.ipynb](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/1_machine_learning_foundations/assignment/week2/quiz-week2-assignment.ipynb)
+- [Assignment 2](./assignment/week2)
+- [Predicting house prices-Exercise.ipynb](./assignment/week2/Predicting%20house%20prices-Exercise.ipynb)
+- [quiz-week2-assignment.ipynb](./assignment/week2/quiz-week2-assignment.ipynb)
 
 
 ## Week 3: Classification: Analyzing Sentiment
 
 **- Lecture**
 
-- [Lecture 3](https://github.com/tuanavu/coursera-university-of-washington/tree/master/machine_learning/1_machine_learning_foundations/lecture/week3)
-- [quiz-week3-lecture.ipynb](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/1_machine_learning_foundations/lecture/week3/quiz-week3-lecture.ipynb)
+- [Lecture 3](./lecture/week3)
+- [quiz-week3-lecture.ipynb](./lecture/week3/quiz-week3-lecture.ipynb)
 
 **- Assignment**
 
-- [Assignment 3](https://github.com/tuanavu/coursera-university-of-washington/tree/master/machine_learning/1_machine_learning_foundations/assignment/week3)
-- [Analyzing product sentiment-Exercise.ipynb](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/1_machine_learning_foundations/assignment/week3/Analyzing%20product%20sentiment-Exercise.ipynb)
-- [quiz-week3-assignment.ipynb](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/1_machine_learning_foundations/assignment/week3/quiz-week3-assignment.ipynb)
+- [Assignment 3](./assignment/week3)
+- [Analyzing product sentiment-Exercise.ipynb](./assignment/week3/Analyzing%20product%20sentiment-Exercise.ipynb)
+- [quiz-week3-assignment.ipynb](./assignment/week3/quiz-week3-assignment.ipynb)
 
 ## Week 4: Clustering and Similarity: Retrieving documents
 
 **- Lecture**
 
-- [Lecture 4](https://github.com/tuanavu/coursera-university-of-washington/tree/master/machine_learning/1_machine_learning_foundations/lecture/week4)
-- [quiz-week4-lecture.ipynb](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/1_machine_learning_foundations/lecture/week4/quiz-week4-lecture.ipynb)
+- [Lecture 4](./lecture/week4)
+- [quiz-week4-lecture.ipynb](./lecture/week4/quiz-week4-lecture.ipynb)
 
 **- Assignment**
 
-- [Assignment 4](https://github.com/tuanavu/coursera-university-of-washington/tree/master/machine_learning/1_machine_learning_foundations/assignment/week4)
-- [Document retrieval-Exercise.ipynb](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/1_machine_learning_foundations/assignment/week4/Document%20retrieval-Exercise.ipynb)
-- [quiz-week4-assignment.ipynb](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/1_machine_learning_foundations/lecture/week4/quiz-week4-lecture.ipynb)
+- [Assignment 4](./assignment/week4)
+- [Document retrieval-Exercise.ipynb](./assignment/week4/Document%20retrieval-Exercise.ipynb)
+- [quiz-week4-assignment.ipynb](./lecture/week4/quiz-week4-lecture.ipynb)
 
 
 ## Week 5: Recommending Products
 
 **- Lecture**
 
-- [Lecture 5](https://github.com/tuanavu/coursera-university-of-washington/tree/master/machine_learning/1_machine_learning_foundations/lecture/week5)
-- [quiz-week5-lecture.ipynb](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/1_machine_learning_foundations/lecture/week5/quiz-week5-lecture.ipynb)
+- [Lecture 5](./lecture/week5)
+- [quiz-week5-lecture.ipynb](./lecture/week5/quiz-week5-lecture.ipynb)
 
 **- Assignment**
 
-- [Assignment 5](https://github.com/tuanavu/coursera-university-of-washington/tree/master/machine_learning/1_machine_learning_foundations/assignment/week5)
-- [Song recommender-Exercise.ipynb](https://github.com/tuanavu/coursera-university-of-washington/blob/master/machine_learning/1_machine_learning_foundations/assignment/week5/Song%20recommender-Exercise.ipynb)
-- [quiz-week5-assignment.ipynb](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/1_machine_learning_foundations/assignment/week5/quiz-week5-assignment.ipynb)
+- [Assignment 5](./assignment/week5)
+- [Song recommender-Exercise.ipynb](./assignment/week5/Song%20recommender-Exercise.ipynb)
+- [quiz-week5-assignment.ipynb](./assignment/week5/quiz-week5-assignment.ipynb)
 
 ## Week 6: Deep Learning: Searching for Images
 
 **- Lecture**
 
-- [Lecture 6](https://github.com/tuanavu/coursera-university-of-washington/tree/master/machine_learning/1_machine_learning_foundations/lecture/week6)
+- [Lecture 6](./lecture/week6)
 - [Deep Learning Demo](http://phototag.herokuapp.com/#)
-- [quiz-week6-lecture.ipynb](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/1_machine_learning_foundations/lecture/week6/quiz-week6-lecture.ipynb)
+- [quiz-week6-lecture.ipynb](./lecture/week6/quiz-week6-lecture.ipynb)
 
 **- Assignment**
 
-- [Assignment 6](https://github.com/tuanavu/coursera-university-of-washington/tree/master/machine_learning/1_machine_learning_foundations/assignment/week6)
-- [Deep Features for Image Classification.ipynb](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/1_machine_learning_foundations/assignment/week6/Deep%20Features%20for%20Image%20Classification.ipynb)
-- [Deep Features for Image Retrieval.ipynb](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/1_machine_learning_foundations/assignment/week6/Deep%20Features%20for%20Image%20Retrieval.ipynb)
-- [Deep Features - Exercise.ipynb](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/1_machine_learning_foundations/assignment/week6/Deep%20Features%20-%20Exercise.ipynb)
-- [quiz-week6-assignment.ipynb](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/1_machine_learning_foundations/assignment/week6/quiz-week6-assignment.ipynb)
+- [Assignment 6](./assignment/week6)
+- [Deep Features for Image Classification.ipynb](./assignment/week6/Deep%20Features%20for%20Image%20Classification.ipynb)
+- [Deep Features for Image Retrieval.ipynb](./assignment/week6/Deep%20Features%20for%20Image%20Retrieval.ipynb)
+- [Deep Features - Exercise.ipynb](./assignment/week6/Deep%20Features%20-%20Exercise.ipynb)
+- [quiz-week6-assignment.ipynb](./assignment/week6/quiz-week6-assignment.ipynb)
