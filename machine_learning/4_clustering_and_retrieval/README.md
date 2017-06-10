@@ -22,7 +22,7 @@ Clustering & Retrieval
 ## Week 2: Nearest Neighbor Search
 
 - [Lecture](./lecture/week2)
-- [Assignment](https://github.com/tuanavu/coursera-university-of-washington/tree/master/machine_learning/4_clustering_and_retrieval/assigment/week2)
+- [Assignment](./assigment/week2)
 
 #### Introduction to nearest neighbor search and algorithms
 
@@ -55,7 +55,7 @@ Clustering & Retrieval
 ## Week 3: Clustering with k-means
 
 - [Lecture](./lecture/week3)
-- [Assignment](https://github.com/tuanavu/coursera-university-of-washington/tree/master/machine_learning/4_clustering_and_retrieval/assigment/week3)
+- [Assignment](./assigment/week3)
 
 #### Introduction to clustering
 
@@ -78,7 +78,7 @@ Clustering & Retrieval
 ## Week 4: Mixture Models
 
 - [Lecture](./lecture/week4)
-- [Assignment](https://github.com/tuanavu/coursera-university-of-washington/tree/master/machine_learning/4_clustering_and_retrieval/assigment/week4)
+- [Assignment](./assigment/week4)
 
 #### EM for Gaussian mixtures
 
@@ -100,7 +100,7 @@ Clustering & Retrieval
 ## Week 5: Mixed Membership Modeling via Latent Dirichlet Allocation
 
 - [Lecture](./lecture/week5)
-- [Assignment](https://github.com/tuanavu/coursera-university-of-washington/tree/master/machine_learning/4_clustering_and_retrieval/assigment/week5)
+- [Assignment](./assigment/week5)
 
 #### Introduction to latent Dirichlet allocation
 
@@ -124,7 +124,7 @@ Clustering & Retrieval
 ## Week 6: Hierarchical Clustering & Closing Remarks
 
 - [Lecture](./lecture/week6)
-- [Assignment](https://github.com/tuanavu/coursera-university-of-washington/tree/master/machine_learning/4_clustering_and_retrieval/assigment/week6)
+- [Assignment](./assigment/week6)
 
 #### Hierarchical clustering and clustering for time series segmentation
 
