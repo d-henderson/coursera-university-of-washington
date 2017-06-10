@@ -31,25 +31,25 @@ Clustering & Retrieval
 #### The importance of data representations and distance metrics
 
 - __Lecture__
-	- quiz-Representations and metrics.ipynb [[ipynb](./lecture/week2/quiz-Representations%20and%20metrics.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/4_clustering_and_retrieval/lecture/week2/quiz-Representations%20and%20metrics.ipynb)]
+	- quiz-Representations and metrics.ipynb [[ipynb](./lecture/week2/quiz-Representations%20and%20metrics.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/d-henderson/coursera-university-of-washington/blob/master/machine_learning/4_clustering_and_retrieval/lecture/week2/quiz-Representations%20and%20metrics.ipynb)]
 
 - __Assignment__
-	- 0_nearest-neighbors-features-and-metrics_graphlab.ipynb [[ipynb](./assignment/week2/0_nearest-neighbors-features-and-metrics_graphlab.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/4_clustering_and_retrieval/assigment/week2/0_nearest-neighbors-features-and-metrics_graphlab.ipynb)]
-	- quiz-week2-assignment1.ipynb [[ipynb](./assignment/week2/quiz-week2-assignment1.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/4_clustering_and_retrieval/assigment/week2/quiz-week2-assignment1.ipynb)]
+	- 0_nearest-neighbors-features-and-metrics_graphlab.ipynb [[ipynb](./assignment/week2/0_nearest-neighbors-features-and-metrics_graphlab.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/d-henderson/coursera-university-of-washington/blob/master/machine_learning/4_clustering_and_retrieval/assigment/week2/0_nearest-neighbors-features-and-metrics_graphlab.ipynb)]
+	- quiz-week2-assignment1.ipynb [[ipynb](./assignment/week2/quiz-week2-assignment1.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/d-henderson/coursera-university-of-washington/blob/master/machine_learning/4_clustering_and_retrieval/assigment/week2/quiz-week2-assignment1.ipynb)]
 
 #### Scaling up k-NN search using KD-trees
 
 - __Lecture__
-	- quiz-KD-trees.ipynb [[ipynb](./lecture/week2/quiz-KD-trees.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/4_clustering_and_retrieval/lecture/week2/quiz-KD-trees.ipynb)]
+	- quiz-KD-trees.ipynb [[ipynb](./lecture/week2/quiz-KD-trees.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/d-henderson/coursera-university-of-washington/blob/master/machine_learning/4_clustering_and_retrieval/lecture/week2/quiz-KD-trees.ipynb)]
 
 #### Locality sensitive hashing for approximate NN search
 
 - __Lecture__
-	- quiz-Locality Sensitive Hashing.ipynb [[ipynb](./lecture/week2/quiz-Locality%20Sensitive%20Hashing.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/4_clustering_and_retrieval/lecture/week2/quiz-Locality%20Sensitive%20Hashing.ipynb)]
+	- quiz-Locality Sensitive Hashing.ipynb [[ipynb](./lecture/week2/quiz-Locality%20Sensitive%20Hashing.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/d-henderson/coursera-university-of-washington/blob/master/machine_learning/4_clustering_and_retrieval/lecture/week2/quiz-Locality%20Sensitive%20Hashing.ipynb)]
 
 - __Assignment__
-	- 1_nearest-neighbors-lsh-implementation_graphlab.ipynb [[ipynb](./assignment/week2/1_nearest-neighbors-lsh-implementation_graphlab.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/4_clustering_and_retrieval/assigment/week2/1_nearest-neighbors-lsh-implementation_graphlab.ipynb)]
-	- quiz-week2-assignment2.ipynb [[ipynb](./assignment/week2/quiz-week2-assignment2.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/4_clustering_and_retrieval/assigment/week2/quiz-week2-assignment2.ipynb)]
+	- 1_nearest-neighbors-lsh-implementation_graphlab.ipynb [[ipynb](./assignment/week2/1_nearest-neighbors-lsh-implementation_graphlab.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/d-henderson/coursera-university-of-washington/blob/master/machine_learning/4_clustering_and_retrieval/assigment/week2/1_nearest-neighbors-lsh-implementation_graphlab.ipynb)]
+	- quiz-week2-assignment2.ipynb [[ipynb](./assignment/week2/quiz-week2-assignment2.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/d-henderson/coursera-university-of-washington/blob/master/machine_learning/4_clustering_and_retrieval/assigment/week2/quiz-week2-assignment2.ipynb)]
 
 
 ## Week 3: Clustering with k-means
@@ -64,16 +64,16 @@ Clustering & Retrieval
 #### Clustering via k-means
 
 - __Lecture__
-	- quiz-K-means.ipynb [[ipynb](./lecture/week3/quiz-k-means.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/4_clustering_and_retrieval/lecture/week3/quiz-k-means.ipynb)]
+	- quiz-K-means.ipynb [[ipynb](./lecture/week3/quiz-k-means.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/d-henderson/coursera-university-of-washington/blob/master/machine_learning/4_clustering_and_retrieval/lecture/week3/quiz-k-means.ipynb)]
 
 - __Assignment__
-	- 2_kmeans-with-text-data_graphlab.ipynb [[ipynb](./assigment/week3/2_kmeans-with-text-data_graphlab.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/4_clustering_and_retrieval/assigment/week3/2_kmeans-with-text-data_graphlab.ipynb)]
-	- quiz-week3-assignment1.ipynb [[ipynb](./assigment/week3/quiz-week3-assignment1.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/4_clustering_and_retrieval/assigment/week3/quiz-week3-assignment1.ipynb)]
+	- 2_kmeans-with-text-data_graphlab.ipynb [[ipynb](./assigment/week3/2_kmeans-with-text-data_graphlab.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/d-henderson/coursera-university-of-washington/blob/master/machine_learning/4_clustering_and_retrieval/assigment/week3/2_kmeans-with-text-data_graphlab.ipynb)]
+	- quiz-week3-assignment1.ipynb [[ipynb](./assigment/week3/quiz-week3-assignment1.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/d-henderson/coursera-university-of-washington/blob/master/machine_learning/4_clustering_and_retrieval/assigment/week3/quiz-week3-assignment1.ipynb)]
 
 #### MapReduce for scaling k-means
 
 - __Lecture__
-	- quiz-MapReduce for k-means.ipynb [[ipynb](./lecture/week3/quiz-MapReduce%20for%20k-means.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/4_clustering_and_retrieval/lecture/week3/quiz-MapReduce%20for%20k-means.ipynb)]
+	- quiz-MapReduce for k-means.ipynb [[ipynb](./lecture/week3/quiz-MapReduce%20for%20k-means.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/d-henderson/coursera-university-of-washington/blob/master/machine_learning/4_clustering_and_retrieval/lecture/week3/quiz-MapReduce%20for%20k-means.ipynb)]
 
 ## Week 4: Mixture Models
 
@@ -83,19 +83,19 @@ Clustering & Retrieval
 #### EM for Gaussian mixtures
 
 - [EM-annotated](./lecture/week4/01_slides-presented-in-this-module_mixmodel-EM-annotated.pdf)
-- quiz-EM for Gaussian mixtures.ipynb [[ipynb](./lecture/week4/quiz-EM%20for%20Gaussian%20mixtures.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/4_clustering_and_retrieval/lecture/week4/quiz-EM%20for%20Gaussian%20mixtures.ipynb)]
+- quiz-EM for Gaussian mixtures.ipynb [[ipynb](./lecture/week4/quiz-EM%20for%20Gaussian%20mixtures.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/d-henderson/coursera-university-of-washington/blob/master/machine_learning/4_clustering_and_retrieval/lecture/week4/quiz-EM%20for%20Gaussian%20mixtures.ipynb)]
 
 #### Implementing EM for Gaussian mixtures
 
 - __Assignment__
-	- 3_em-for-gmm_graphlab.ipynb [[ipynb](./assigment/week4/3_em-for-gmm_graphlab.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/4_clustering_and_retrieval/assigment/week4/3_em-for-gmm_graphlab.ipynb)]
-	- quiz-week4-assignment1.ipynb [[ipynb](./assigment/week4/quiz-week4-assignment1.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/4_clustering_and_retrieval/assigment/week4/quiz-week4-assignment1.ipynb)]
+	- 3_em-for-gmm_graphlab.ipynb [[ipynb](./assigment/week4/3_em-for-gmm_graphlab.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/d-henderson/coursera-university-of-washington/blob/master/machine_learning/4_clustering_and_retrieval/assigment/week4/3_em-for-gmm_graphlab.ipynb)]
+	- quiz-week4-assignment1.ipynb [[ipynb](./assigment/week4/quiz-week4-assignment1.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/d-henderson/coursera-university-of-washington/blob/master/machine_learning/4_clustering_and_retrieval/assigment/week4/quiz-week4-assignment1.ipynb)]
 
 #### Clustering text data with Gaussian mixtures
 
 - __Assignment__
-	- 4_em-with-text-data_graphlab.ipynb [[ipynb](./assigment/week4/4_em-with-text-data_graphlab.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/4_clustering_and_retrieval/assigment/week4/4_em-with-text-data_graphlab.ipynb)]
-	- quiz-week4-assignment2.ipynb [[ipynb](./assigment/week4/quiz-week4-assignment2.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/4_clustering_and_retrieval/assigment/week4/quiz-week4-assignment2.ipynb)]
+	- 4_em-with-text-data_graphlab.ipynb [[ipynb](./assigment/week4/4_em-with-text-data_graphlab.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/d-henderson/coursera-university-of-washington/blob/master/machine_learning/4_clustering_and_retrieval/assigment/week4/4_em-with-text-data_graphlab.ipynb)]
+	- quiz-week4-assignment2.ipynb [[ipynb](./assigment/week4/quiz-week4-assignment2.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/d-henderson/coursera-university-of-washington/blob/master/machine_learning/4_clustering_and_retrieval/assigment/week4/quiz-week4-assignment2.ipynb)]
 
 ## Week 5: Mixed Membership Modeling via Latent Dirichlet Allocation
 
@@ -106,7 +106,7 @@ Clustering & Retrieval
 
 - __Lecture__
 	- [LDA-annotated](./lecture/week5/01_slides-presented-in-this-module_LDA-annotated.pdf)
-	- quiz-Latent Dirichlet Allocation.ipynb [[ipynb](./lecture/week5/quiz-Latent%20Dirichlet%20Allocation.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/4_clustering_and_retrieval/lecture/week5/quiz-Latent%20Dirichlet%20Allocation.ipynb)]
+	- quiz-Latent Dirichlet Allocation.ipynb [[ipynb](./lecture/week5/quiz-Latent%20Dirichlet%20Allocation.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/d-henderson/coursera-university-of-washington/blob/master/machine_learning/4_clustering_and_retrieval/lecture/week5/quiz-Latent%20Dirichlet%20Allocation.ipynb)]
 
 #### Bayesian inference via Gibbs sampling
 
@@ -115,11 +115,11 @@ Clustering & Retrieval
 #### Summarizing latent Dirichlet allocation
 
 - __Lecture__
-	- quiz-Learning LDA model via Gibbs sampling.ipynb [[ipynb](./lecture/week5/quiz-Learning%20LDA%20model%20via%20Gibbs%20sampling.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/4_clustering_and_retrieval/lecture/week5/quiz-Learning%20LDA%20model%20via%20Gibbs%20sampling.ipynb)]
+	- quiz-Learning LDA model via Gibbs sampling.ipynb [[ipynb](./lecture/week5/quiz-Learning%20LDA%20model%20via%20Gibbs%20sampling.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/d-henderson/coursera-university-of-washington/blob/master/machine_learning/4_clustering_and_retrieval/lecture/week5/quiz-Learning%20LDA%20model%20via%20Gibbs%20sampling.ipynb)]
 
 - __Assignment__
-	- 5_lda_graphlab.ipynb [[ipynb](./assigment/week5/5_lda_graphlab.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/4_clustering_and_retrieval/assigment/week5/5_lda_graphlab.ipynb)]
-	- quiz-week5-assignment.ipynb [[ipynb](./assigment/week5/quiz-week5-assignment.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/4_clustering_and_retrieval/assigment/week5/quiz-week5-assignment.ipynb)]
+	- 5_lda_graphlab.ipynb [[ipynb](./assigment/week5/5_lda_graphlab.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/d-henderson/coursera-university-of-washington/blob/master/machine_learning/4_clustering_and_retrieval/assigment/week5/5_lda_graphlab.ipynb)]
+	- quiz-week5-assignment.ipynb [[ipynb](./assigment/week5/quiz-week5-assignment.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/d-henderson/coursera-university-of-washington/blob/master/machine_learning/4_clustering_and_retrieval/assigment/week5/quiz-week5-assignment.ipynb)]
 
 ## Week 6: Hierarchical Clustering & Closing Remarks
 
@@ -132,6 +132,6 @@ Clustering & Retrieval
 	- [closing-annotated.pdf](./lecture/week6/closing-annotated.pdf)	
 
 - __Assignment__
-	- 6_hierarchical_clustering_graphlab.ipynb [[ipynb](./assigment/week6/6_hierarchical_clustering_graphlab.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/4_clustering_and_retrieval/assigment/week6/6_hierarchical_clustering_graphlab.ipynb)]
-	- quiz-week6-assignment.ipynb [[ipynb](./assigment/week6/quiz-week6-assignment.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/4_clustering_and_retrieval/assigment/week6/quiz-week6-assignment.ipynb)]
+	- 6_hierarchical_clustering_graphlab.ipynb [[ipynb](./assigment/week6/6_hierarchical_clustering_graphlab.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/d-henderson/coursera-university-of-washington/blob/master/machine_learning/4_clustering_and_retrieval/assigment/week6/6_hierarchical_clustering_graphlab.ipynb)]
+	- quiz-week6-assignment.ipynb [[ipynb](./assigment/week6/quiz-week6-assignment.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/d-henderson/coursera-university-of-washington/blob/master/machine_learning/4_clustering_and_retrieval/assigment/week6/quiz-week6-assignment.ipynb)]
 
