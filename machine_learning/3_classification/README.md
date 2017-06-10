@@ -5,13 +5,13 @@ Classification
 
 | Week | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Week 1](https://github.com/tuanavu/coursera-university-of-washington/tree/master/machine_learning/3_classification#week-1-linear-classifiers--logistic-regression) | Linear Classifiers & Logistic Regression |
-| [Week 2](https://github.com/tuanavu/coursera-university-of-washington/tree/master/machine_learning/3_classification#week-2-linear-classifiers--logistic-regression) | Linear Classifiers & Logistic Regression |
-| [Week 3](https://github.com/tuanavu/coursera-university-of-washington/tree/master/machine_learning/3_classification#week-3-decision-trees) | Decision Trees |
-| [Week 4](https://github.com/tuanavu/coursera-university-of-washington/tree/master/machine_learning/3_classification#week-4-preventing-overfitting-in-decision-trees--handling-missing-data) | Preventing Overfitting in Decision Trees & Handling Missing Data |
-| [Week 5](https://github.com/tuanavu/coursera-university-of-washington/tree/master/machine_learning/3_classification#week-5-boosting) | Boosting |
-| [Week 6](https://github.com/tuanavu/coursera-university-of-washington/tree/master/machine_learning/3_classification#week-6-precision-recall) | Precision-Recall |
-| [Week 7](https://github.com/tuanavu/coursera-university-of-washington/tree/master/machine_learning/3_classification#week-7-scaling-to-huge-datasets--online-learning) | Scaling to Huge Datasets & Online Learning |
+| [Week 1](#week-1-linear-classifiers--logistic-regression) | Linear Classifiers & Logistic Regression |
+| [Week 2](#week-2-linear-classifiers--logistic-regression) | Linear Classifiers & Logistic Regression |
+| [Week 3](#week-3-decision-trees) | Decision Trees |
+| [Week 4](#week-4-preventing-overfitting-in-decision-trees--handling-missing-data) | Preventing Overfitting in Decision Trees & Handling Missing Data |
+| [Week 5](#week-5-boosting) | Boosting |
+| [Week 6](#week-6-precision-recall) | Precision-Recall |
+| [Week 7](#week-7-scaling-to-huge-datasets--online-learning) | Scaling to Huge Datasets & Online Learning |
 
 ## Week 1: Linear Classifiers & Logistic Regression
 
