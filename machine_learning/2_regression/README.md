@@ -5,12 +5,12 @@ Regression
 
 | Week | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Week 1](https://github.com/tuanavu/coursera-university-of-washington/tree/master/machine_learning/2_regression#week-1-simple-linear-regression) | Simple Linear Regression |
-| [Week 2](https://github.com/tuanavu/coursera-university-of-washington/tree/master/machine_learning/2_regression#week-2-multiple-regression) | Multiple Regression |
-| [Week 3](https://github.com/tuanavu/coursera-university-of-washington/tree/master/machine_learning/2_regression#week-3-accessing-performance) | Accessing Performance |
-| [Week 4](https://github.com/tuanavu/coursera-university-of-washington/tree/master/machine_learning/2_regression#week-4-ridge-regression) | Ridge Regression |
-| [Week 5](https://github.com/tuanavu/coursera-university-of-washington/tree/master/machine_learning/2_regression#week-5-feature-selection--lasso) | Feature Selection & Lasso |
-| [Week 6](https://github.com/tuanavu/coursera-university-of-washington/tree/master/machine_learning/2_regression#week-6-nearest-neighbors--kernel-regression) | Nearest Neighbors & Kernel Regression |
+| [Week 1](#week-1-simple-linear-regression) | Simple Linear Regression |
+| [Week 2](#week-2-multiple-regression) | Multiple Regression |
+| [Week 3](#week-3-accessing-performance) | Accessing Performance |
+| [Week 4](#week-4-ridge-regression) | Ridge Regression |
+| [Week 5](#week-5-feature-selection--lasso) | Feature Selection & Lasso |
+| [Week 6](#week-6-nearest-neighbors--kernel-regression) | Nearest Neighbors & Kernel Regression |
 
 
 ## Week 1: Simple Linear Regression
@@ -25,16 +25,16 @@ Aside: The python notation x.xxe+yy means x.xx * 10^(yy). e.g 100 = 10^2 = 1*10^
 
 **- Lecture**
 
-- [Lecture 1](https://github.com/tuanavu/coursera-university-of-washington/tree/master/machine_learning/2_regression/lecture/week1)
-- [PhillyCrime.ipynb](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/2_regression/lecture/week1/PhillyCrime.ipynb)
-- [Linear Regression.ipynb](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/2_regression/lecture/week1/Linear%20Regression.ipynb)
-- [quiz - Simple Linear Regression.ipynb](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/2_regression/lecture/week1/quiz%20-%20Simple%20Linear%20Regression.ipynb)
+- [Lecture 1](./lecture/week1)
+- [PhillyCrime.ipynb](./lecture/week1/PhillyCrime.ipynb)
+- [Linear Regression.ipynb](./lecture/week1/Linear%20Regression.ipynb)
+- [quiz - Simple Linear Regression.ipynb](./lecture/week1/quiz%20-%20Simple%20Linear%20Regression.ipynb)
 
 **- Assignment**
 
-- [Assignment 1](https://github.com/tuanavu/coursera-university-of-washington/tree/master/machine_learning/2_regression/assignment/week1)
-- [week-1-simple-regression-assignment-exercise.ipynb](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/2_regression/assignment/week1/week-1-simple-regression-assignment-exercise.ipynb)
-- [quiz - assignment1.ipynb](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/2_regression/assignment/week1/quiz%20-%20assignment1.ipynb)
+- [Assignment 1](./assignment/week1)
+- [week-1-simple-regression-assignment-exercise.ipynb](./assignment/week1/week-1-simple-regression-assignment-exercise.ipynb)
+- [quiz - assignment1.ipynb](./assignment/week1/quiz%20-%20assignment1.ipynb)
 
 
 ## Week 2: Multiple Regression
